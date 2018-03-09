@@ -1,2 +1,39 @@
-invName,qty,unit,invStatus,Status
-2 To 4 HOLES ADAPTER,5,pcs,low in stock,active
+idnum,invName,qty,unit,invStatus,status
+1,2 To 4 HOLES ADAPTER,5,pcs,Low in Stock,active
+2,4 TO TO,1,pcs,Low in Stock,active
+3,Alginate/Kromopan,11,kilos,Low in Stock,active
+4,Anesthesia,10,pcs,Low in Stock,active
+5,Applicator tips,4,pcs,Okay,active
+6,Articulating Paper,21,pcs,Low in Stock,active
+7,Barbed Roach,8,pcs,Okay,active
+8,BEAUTI-CEMENT,1,pcs,Low in Stock,active
+9,big diamonds finishing burr,1,pcs,Low in Stock,active
+10,Bite Block,8,pcs,Low in Stock,active
+11,Bite Wax,37,pcs,Low in Stock,active
+12,Bone Burrs,6,pcs,Low in Stock,active
+13,BONDING agent,1,pcs,Low in Stock,active
+14,Brackets,26,set,Low in Stock,active
+15,Buccal Tubes,0,set,Low in Stock,inactive
+16,Burr -40 round,2,pcs,Low in Stock,active
+17,Burrs # 368016,3,pcs,Low in Stock,active
+18,Burrs diamond point (FG),5,pcs,Low in Stock,active
+19,Calibra esthetic Resin Cement,3,pcs,Low in Stock,active
+20,Castone,12,pcs,Low in Stock,active
+21,Cavitron,1,pcs,Low in Stock,active
+22,Celluloid Strip,4,pcs,Low in Stock,active
+23,Ceramic Brackets,4,set,Low in Stock,active
+24,CLOSED COIL SPRING,6,pcs,Low in Stock,active
+25,Coax,1,packs,Low in Stock,active
+26,Composite A1,1,pcs,Out of Stock,active
+27,Composite A2,3,pcs,Low in Stock,active
+28,Composite A3,3,pcs,Low in Stock,active
+29,Composite A3.5,4,pcs,Low in Stock,active
+30,Composite A30,1,pcs,Okay,active
+31,Composite B2,2,pcs,Low in Stock,active
+32,Composite Bonding Agent,1,pcs,Low in Stock,active
+33,Composite instruments code-05703,1,pcs,Low in Stock,active
+34,Composite instruments code-05707,1,pcs,Low in Stock,active
+35,composite Inc.,11,pcs,Low in Stock,active
+36,CuNiTi .016 Lower,1,pcs,Low in Stock,active
+37,CuNiTi .12 Upper,1,pcs,Low in Stock,active
+38,Defoger,4,pcs,Low in Stock,active
