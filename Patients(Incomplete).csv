@@ -1,0 +1,11 @@
+patID,name,address,occupation,telNo,status,birthDate,age,sex,medConditions,Allergies,Balance,PatStatus
+1,Gandeza Rachel E,"""Marville Subdivision, Irisan, Baguio City""",Student,09260717250,Single,1/28/1993,24,F,,,0,active
+2,Maria Olivia Margaris,Marville Subdivision baguio,,09193279345,Married,7/15/1982,35,F,,,0,active
+3,Di Anne P Monreal,"""Bakakeng Sur, Baguio City""",Cabni Crew,09173024102,Single,2/24/1991,26,F,,,0,active
+4,Jesssie G. Bautista,"""Honeymonon RD, Baguio City""",Maintenance,09302184788,Married,8/24/1988,27,M,,,0,active
+5,Joan Polomen,,,09282817870,Married,9/15/1983,34,F,,,0,active
+6,Jhoairha Manaiang,,,,,5/27/1999,17,,,,0,active
+7,Magilyn Lim,7 Laubach Road,,09277948873,Married,11/3/1977,40,F,,,0,active
+8,Kailey Robyn C. Bernal,129E Leonila Mill,Student,09778560101,Single,6/19/2010,8,F,,,0,active
+9,Rexelle Jun R. Bersamin,"""North Cambridge Condominium Bakakeng, Baguio City""",Security Guard,09269350953,Single,6/25/1994,23,M,,,0,active
+10,charice Costales,2A-11 Ledesma St. Aurora Hil,HouseWife,244-2461,Married,12/4/1988,29,f,,,0,active
